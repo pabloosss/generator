@@ -2,9 +2,7 @@
   "name": "generator-godzin",
   "version": "1.0.0",
   "type": "commonjs",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "scripts": { "start": "node server.js" },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
